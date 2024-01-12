@@ -1,2 +1,7 @@
-package org.launchcode;public class FortyTwo {
+package org.launchcode;
+
+public class FortyTwo {
+
+    public int intValue = 42;
 }
+

@@ -2,8 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'org.launchcode'
-version = '1.0-SNAPSHOT'
+group = 'org.launchcode'version = '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()

@@ -18,7 +18,6 @@ public class CheckBox extends Questions {
     breakfast.add("pancakes");
     breakfast.add("syrup");
     breakfast.add("cereal")
-    String Question = new Questions("What of these options is a breakfast food?", "eg
 
 
     private String answer;
